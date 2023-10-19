@@ -1,5 +1,6 @@
 # ScrollingMessage-Visual-Using-matplotlib
-This is a python code that visualizes a Scrolling Message task that we had to implement in our Microprocessor lab using assembly code.
+
+This Python code showcases the implementation of a Scrolling Message task, originally created in assembly language for our Microprocessor lab.
 
 ![ScrollingMessage drawio](https://github.com/mohamadalzhori/ScrollingMessage-Visual-Using-matplotlib/assets/99711702/086687db-6055-46ed-80cc-257807c00e67)
 
